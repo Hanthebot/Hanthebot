@@ -3,7 +3,7 @@
 - 🌱 I’m currently using ... C++, Python, Java (&Android), basic JS, Solidity
   - Now learning Rust
 - 💞️ I’m looking to collaborate on ... asset trading / exchange / crypto {currency, graphy}
-- 📫 How to reach me ... hanthebot@gmail.com or <t.me/haninthai>
+- 📫 How to reach me ... hanthebot@gmail.com or [Telegram](t.me/haninthai)
 
 <!---
 Hanthebot/Hanthebot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
